@@ -28,7 +28,7 @@
   .card .card-header p {
     font-family: "Arial", sans-serif;
     font-size: 15px;
-    color: var(--primary-color); /* Replacing $primary-color with a CSS variable */
+    color: var(--primary-color); 
     margin-right: 10px;
     font-weight: 600;
   }
